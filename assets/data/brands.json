@@ -1,17 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "erfurt",
+        "name": "Erfurt",
+        "slug": "erfurt",
+        "productCategory": "Erfurt",
+        "localThumb": "/assets/images/hersteller/erfurt.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +14,150 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "as-creation",
+        "name": "AS-Creation",
+        "slug": "as-creation",
+        "productCategory": "AS-Creation",
+        "localThumb": "/assets/images/hersteller/as-creation.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "gmk",
+        "name": "GMK",
+        "slug": "gmk",
+        "productCategory": "GMK",
+        "localThumb": "/assets/images/hersteller/gmk.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "boutique luxury",
+        "name": "Boutique Luxury",
+        "slug": "boutique-luxury",
+        "productCategory": "Boutique Luxury",
+        "localThumb": "/assets/images/hersteller/boutique-luxury.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "schöner wohnen kollektion",
+        "name": "Schöner Wohnen Kollektion",
+        "slug": "schoener-wohnen-kollektion",
+        "productCategory": "Schöner Wohnen Kollektion",
+        "localThumb": "/assets/images/hersteller/schoener-wohnen-kollektion.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "superfresco easy",
+        "name": "Superfresco easy",
+        "slug": "superfresco-easy",
+        "productCategory": "Superfresco easy",
+        "localThumb": "/assets/images/hersteller/superfresco-easy.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "marburg",
+        "name": "Marburg",
+        "slug": "marburg",
+        "productCategory": "Marburg",
+        "localThumb": "/assets/images/hersteller/marburg.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "erismann",
+        "name": "erismann",
+        "slug": "erismann",
+        "productCategory": "erismann",
+        "localThumb": "/assets/images/hersteller/erismann.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "finest selection",
+        "name": "Finest Selection",
+        "slug": "finest-selection",
+        "productCategory": "Finest Selection",
+        "localThumb": "/assets/images/hersteller/finest-selection.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "graham & brown",
+        "name": "Graham & Brown",
+        "slug": "graham-brown",
+        "productCategory": "Graham & Brown",
+        "localThumb": "/assets/images/hersteller/graham-brown.webp"
+    },
+    {
+        "key": "avenzio",
+        "name": "Avenzio",
+        "slug": "avenzio",
+        "productCategory": "Avenzio",
+        "localThumb": "/assets/images/hersteller/avenzio.webp"
+    },
+    {
+        "key": "michalsky",
+        "name": "Michalsky",
+        "slug": "michalsky",
+        "productCategory": "Michalsky",
+        "localThumb": "/assets/images/hersteller/michalsky.webp"
+    },
+    {
+        "key": "decorate",
+        "name": "Decorate",
+        "slug": "decorate",
+        "productCategory": "Decorate",
+        "localThumb": "/assets/images/hersteller/decorate.webp"
+    },
+    {
+        "key": "julien mac donald",
+        "name": "Julien Mac Donald",
+        "slug": "julien-mac-donald",
+        "productCategory": "Julien Mac Donald",
+        "localThumb": "/assets/images/hersteller/julien-mac-donald.webp"
+    },
+    {
+        "key": "decosa",
+        "name": "Decosa",
+        "slug": "decosa",
+        "productCategory": "Decosa",
+        "localThumb": "/assets/images/hersteller/decosa.webp"
+    },
+    {
+        "key": "glööckler",
+        "name": "Glööckler",
+        "slug": "gloeoeckler",
+        "productCategory": "Glööckler",
+        "localThumb": "/assets/images/hersteller/gloeoeckler.webp"
+    },
+    {
+        "key": "colani",
+        "name": "Colani",
+        "slug": "colani",
+        "productCategory": "Colani",
+        "localThumb": "/assets/images/hersteller/colani.webp"
+    },
+    {
+        "key": "daniel hechter",
+        "name": "Daniel Hechter",
+        "slug": "daniel-hechter",
+        "productCategory": "Daniel Hechter",
+        "localThumb": "/assets/images/hersteller/daniel-hechter.webp"
+    },
+    {
+        "key": "designdschungel",
+        "name": "Designdschungel",
+        "slug": "designdschungel",
+        "productCategory": "Designdschungel",
+        "localThumb": "/assets/images/hersteller/designdschungel.webp"
+    },
+    {
+        "key": "jette",
+        "name": "Jette",
+        "slug": "jette",
+        "productCategory": "Jette",
+        "localThumb": "/assets/images/hersteller/jette.webp"
+    },
+    {
+        "key": "contour",
+        "name": "Contour",
+        "slug": "contour",
+        "productCategory": "Contour",
+        "localThumb": "/assets/images/hersteller/contour.webp"
+    },
+    {
+        "key": "insulate",
+        "name": "Insulate",
+        "slug": "insulate",
+        "productCategory": "Insulate",
+        "localThumb": "/assets/images/hersteller/insulate.webp"
     }
 ]
