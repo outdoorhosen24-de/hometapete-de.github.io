@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "hometapete.de",
+    "hostname": "https://www.hometapete.de/",
+    "email": "hometapete.desurrealnetworks.io",
+    "organization": "hometapete.de",
+    "logoText": "Hometapete.de",
+    "title": "Tapeten",
+    "subline": "Der Online Shop f\u00fcr Tapeten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7763949",
+        "8183444",
+        "1138593",
+        "9841800",
+        "4033361",
+        "9818865"
+    ],
+    "winnerProducts": [
+        "1504166",
+        "3331485",
+        "8129645"
+    ],
+    "featuredCategories": [
+        "Zierprofile & Deckenplatten",
+        "Dekorative Tapeten",
+        "Bord\u00fcren",
+        "Bord\u00fcren",
+        "Dekorative Tapeten",
+        "Tapetenmuster"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Tapeten",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Tapetenladen finden Sie eine gro\u00dfe Auswahl an Tapeten f\u00fcr jeden Geschmack. Wir f\u00fchren Tapeten in verschiedenen Stilen, Farben und Mustern. Sie k\u00f6nnen bei uns auch Tapeten f\u00fcr spezielle Anl\u00e4sse kaufen. Wir freuen uns, Ihnen bei der Auswahl der richtigen Tapete behilflich zu sein.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Tapetenladen - Die besten Tapeten in der Stadt!",
+            "metaDescription": "Tapeten f\u00fcr jeden Geschmack! Ob klassisch, modern oder romantisch - bei uns findest du die perfekte Tapete f\u00fcr dein Zuhause.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Tapeten f\u00fcr jeden Geschmack",
+                    "text": "Tapeten sind ein wesentlicher Bestandteil der Inneneinrichtung. Sie k\u00f6nnen den Raum optisch aufwerten und ihm eine ganz eigene Atmosph\u00e4re verleihen. Die Auswahl an Tapeten ist heutzutage sehr gro\u00df und so kann man sich ganz nach seinen eigenen W\u00fcnschen und Vorstellungen einrichten.\n\nTapeten k\u00f6nnen aus verschiedenen Materialien hergestellt werden. Die meisten Tapeten sind jedoch aus Papier. Papiertapeten sind relativ g\u00fcnstig und einfach zu verarbeiten. Sie k\u00f6nnen aber auch relativ schnell abgenutzt werden und m\u00fcssen dann h\u00e4ufig erneuert werden.\n\nTapeten aus Vliesstoff sind etwas teurer, aber auch langlebiger. Sie sind einfach zu verarbeiten und k\u00f6nnen auch an unebenen W\u00e4nden angebracht werden. Vliestapeten eignen sich besonders gut f\u00fcr R\u00e4ume mit hoher Luftfeuchtigkeit, wie zum Beispiel das Badezimmer.\n\nTapeten aus Textil sind die teuersten, aber auch die langlebigsten Tapeten. Sie sind atmungsaktiv und k\u00f6nnen daher auch in R\u00e4umen mit hoher Luftfeuchtigkeit verwendet werden. Textiltapeten sind allerdings auch sehr anspruchsvoll in der Verarbeitung und m\u00fcssen daher von einem Fachmann angebracht werden.\n\nDie Wahl der Tapete sollte immer auch von der Raumgr\u00f6\u00dfe und der Raumfunktion abh\u00e4ngig gemacht werden. F\u00fcr kleine R\u00e4ume eignen sich helle Tap"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Tapeten Shop",
+            "metaDescription": "Der Tapeten Shop bietet eine gro\u00dfe Auswahl an Tapeten f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Tapetenhersteller",
+            "metaDescription": "Tapetenmanufacturer bietet eine gro\u00dfe Auswahl an Tapeten f\u00fcr jeden Geschmack. Finden Sie die perfekte Tapete f\u00fcr Ihr Zuhause!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Tapeten \u2013 Die besten Tapeten f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Tapete f\u00fcr Ihre $KATEGORIE. \u00dcberzeugen Sie sich selbst!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Tapeten f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Tapeten bei OTTO - Wandgestaltung f\u00fcr jeden Geschmack! Finde die passende Tapete f\u00fcr Dein Zuhause in unserer gro\u00dfen Auswahl an Tapeten.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Tapeten - hochwertige Tapeten f\u00fcr anspruchsvolle Kunden. Wir bieten Ihnen eine gro\u00dfe Auswahl an Tapeten in unterschiedlichen Designs und Farben.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Tapeten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Tapeten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Tapeten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
