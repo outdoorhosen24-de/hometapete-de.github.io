@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/contour", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/contour-vliestapete-tegula-teal-1005-x-052-m-contour-8191777-1.jpg":"\u002Fassets\u002Fimages\u002Fcontour-vliestapete-tegula-teal-1005-x-052-m-contour-8191777-1.webp"}}],fetch:{},mutations:void 0});
