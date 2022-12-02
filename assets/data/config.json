@@ -51,12 +51,15 @@
             "title": "Tapetenladen - Die besten Tapeten in der Stadt!",
             "metaDescription": "Tapeten für jeden Geschmack! Ob klassisch, modern oder romantisch - bei uns findest du die perfekte Tapete für dein Zuhause.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Tapeten für jeden Geschmack",
-                    "text": "Tapeten sind ein wesentlicher Bestandteil der Inneneinrichtung. Sie können den Raum optisch aufwerten und ihm eine ganz eigene Atmosphäre verleihen. Die Auswahl an Tapeten ist heutzutage sehr groß und so kann man sich ganz nach seinen eigenen Wünschen und Vorstellungen einrichten.\n\nTapeten können aus verschiedenen Materialien hergestellt werden. Die meisten Tapeten sind jedoch aus Papier. Papiertapeten sind relativ günstig und einfach zu verarbeiten. Sie können aber auch relativ schnell abgenutzt werden und müssen dann häufig erneuert werden.\n\nTapeten aus Vliesstoff sind etwas teurer, aber auch langlebiger. Sie sind einfach zu verarbeiten und können auch an unebenen Wänden angebracht werden. Vliestapeten eignen sich besonders gut für Räume mit hoher Luftfeuchtigkeit, wie zum Beispiel das Badezimmer.\n\nTapeten aus Textil sind die teuersten, aber auch die langlebigsten Tapeten. Sie sind atmungsaktiv und können daher auch in Räumen mit hoher Luftfeuchtigkeit verwendet werden. Textiltapeten sind allerdings auch sehr anspruchsvoll in der Verarbeitung und müssen daher von einem Fachmann angebracht werden.\n\nDie Wahl der Tapete sollte immer auch von der Raumgröße und der Raumfunktion abhängig gemacht werden. Für kleine Räume eignen sich helle Tap"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Tapeten für jeden Geschmack",
+                        "text": "Tapeten sind ein wesentlicher Bestandteil der Inneneinrichtung. Sie können den Raum optisch aufwerten und ihm eine ganz eigene Atmosphäre verleihen. Die Auswahl an Tapeten ist heutzutage sehr groß und so kann man sich ganz nach seinen eigenen Wünschen und Vorstellungen einrichten.\n\nTapeten können aus verschiedenen Materialien hergestellt werden. Die meisten Tapeten sind jedoch aus Papier. Papiertapeten sind relativ günstig und einfach zu verarbeiten. Sie können aber auch relativ schnell abgenutzt werden und müssen dann häufig erneuert werden.\n\nTapeten aus Vliesstoff sind etwas teurer, aber auch langlebiger. Sie sind einfach zu verarbeiten und können auch an unebenen Wänden angebracht werden. Vliestapeten eignen sich besonders gut für Räume mit hoher Luftfeuchtigkeit, wie zum Beispiel das Badezimmer.\n\nTapeten aus Textil sind die teuersten, aber auch die langlebigsten Tapeten. Sie sind atmungsaktiv und können daher auch in Räumen mit hoher Luftfeuchtigkeit verwendet werden. Textiltapeten sind allerdings auch sehr anspruchsvoll in der Verarbeitung und müssen daher von einem Fachmann angebracht werden.\n\nDie Wahl der Tapete sollte immer auch von der Raumgröße und der Raumfunktion abhängig gemacht werden. Für kleine Räume eignen sich helle Tap"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Tapeten Shop",
