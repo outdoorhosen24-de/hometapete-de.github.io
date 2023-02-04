@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "hometapete.de",
     "hostname": "https://www.hometapete.de/",
     "email": "hometapete.de@surrealnetworks.io",
     "organization": "hometapete.de",
     "logoText": "Hometapete.de",
-    "title": "Tapeten",
-    "subline": "Der Online Shop für Tapeten",
+    "title": "Tapeten & Bordüren",
+    "subline": "Gestalten Sie Ihr Zuhause nach Ihren eigenen Vorstellungen!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Tapeten",
-        "featureText": "In unserem Tapetenladen finden Sie eine große Auswahl an Tapeten für jeden Geschmack. Wir führen Tapeten in verschiedenen Stilen, Farben und Mustern. Sie können bei uns auch Tapeten für spezielle Anlässe kaufen. Wir freuen uns, Ihnen bei der Auswahl der richtigen Tapete behilflich zu sein.",
+        "featureText": "Willkommen in unserem Online Shop! Hier finden Sie neben einer riesigen Auswahl an Tapeten und Bordüren auch Zierprofile, Deckenplatten sowie Produkte für die Wohnraumdämmung. Unser Shop ist in übersichtlichen Kategorien geordnet, um Ihnen die Suche zu vereinfachen. Überzeugen Sie sich einfach selbst von unserem umfangreichen Sortiment und unserer Produktqualität - online per Mausklick bestellen, bequem liefern lassen und das kreative Projekt in Angriff nehmen!",
         "index": {
-            "title": "Tapetenladen - Die besten Tapeten in der Stadt!",
-            "metaDescription": "Tapeten für jeden Geschmack! Ob klassisch, modern oder romantisch - bei uns findest du die perfekte Tapete für dein Zuhause.",
+            "title": "Tapeten & Bordüren - günstig bestellen auf hometapete.de",
+            "metaDescription": "Tapeten und Bordüren für jeden Geschmack: Ob klassisch, modern oder romantisch: Auf hometapete.de die perfekte Tapete für Ihr Zuhause finden. Schnell geliefert.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Tapeten Shop",
-            "metaDescription": "Der Tapeten Shop bietet eine große Auswahl an Tapeten für jeden Geschmack.",
+            "title": "Hometapete.de • Der Shop für Tapeten & Bordüren",
+            "metaDescription": "Sie wollen Ihrer Wand einen neuen Look verpassen? Hometapete.de hat die passenden Produkte: Tapeten, Bordüren, Zierleisten uvm. Top Marken | Top Qualität",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Tapetenhersteller",
-            "metaDescription": "Tapetenmanufacturer bietet eine große Auswahl an Tapeten für jeden Geschmack. Finden Sie die perfekte Tapete für Ihr Zuhause!",
+            "title": "Die besten Hersteller für Tapeten & Bordüren",
+            "metaDescription": "Riesige Auswahl der besten Marken: Glööckler • Colani  • Michalsky • Graham & Brown • Schöner Wohnen Kollektion • Boutique Luxury • Finest Selection uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Tapeten – Die besten Tapeten für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Tapete für Ihre $KATEGORIE. Überzeugen Sie sich selbst!",
+        "defaultTitle": "$PRODUKT | hometapete.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das perfekte Produkt für Ihr Projekt „schöner Wohnen“. Entdecken Sie auch Weiteres im Bereich $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Tapeten für $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Tapeten bei OTTO - Wandgestaltung für jeden Geschmack! Finde die passende Tapete für Dein Zuhause in unserer großen Auswahl an Tapeten.",
+        "defaultTitle": "$KATEGORIE | hometapete.de",
+        "defaultMetaDescription": "$KATEGORIE - Wandgestaltung für jeden Geschmack. Finden Sie das perfekte Produkt für Ihr Zuhause. | Schnell, einfach und günstig auf hometapete.de bestellen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Tapeten - hochwertige Tapeten für anspruchsvolle Kunden. Wir bieten Ihnen eine große Auswahl an Tapeten in unterschiedlichen Designs und Farben.",
+        "defaultTitle": "$HERSTELLER - Top Tapeten und Zuehör",
+        "defaultMetaDescription": "$HERSTELLER | Entdecken Sie die hochwertigen Produkte von $HERSTELLER und vielen weiteren renommierten Markenanbietern auf hometapete.de.",
         "defaultRobots": "index, follow",
         "brands": [
             {
