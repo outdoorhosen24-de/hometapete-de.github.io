@@ -52,11 +52,35 @@
             "metaDescription": "Tapeten und Bordüren für jeden Geschmack: Ob klassisch, modern oder romantisch: Auf hometapete.de die perfekte Tapete für Ihr Zuhause finden. Schnell geliefert.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Tapeten für jeden Geschmack",
-                        "text": "Tapeten sind ein wesentlicher Bestandteil der Inneneinrichtung. Sie können den Raum optisch aufwerten und ihm eine ganz eigene Atmosphäre verleihen. Die Auswahl an Tapeten ist heutzutage sehr groß und so kann man sich ganz nach seinen eigenen Wünschen und Vorstellungen einrichten.\n\nTapeten können aus verschiedenen Materialien hergestellt werden. Die meisten Tapeten sind jedoch aus Papier. Papiertapeten sind relativ günstig und einfach zu verarbeiten. Sie können aber auch relativ schnell abgenutzt werden und müssen dann häufig erneuert werden.\n\nTapeten aus Vliesstoff sind etwas teurer, aber auch langlebiger. Sie sind einfach zu verarbeiten und können auch an unebenen Wänden angebracht werden. Vliestapeten eignen sich besonders gut für Räume mit hoher Luftfeuchtigkeit, wie zum Beispiel das Badezimmer.\n\nTapeten aus Textil sind die teuersten, aber auch die langlebigsten Tapeten. Sie sind atmungsaktiv und können daher auch in Räumen mit hoher Luftfeuchtigkeit verwendet werden. Textiltapeten sind allerdings auch sehr anspruchsvoll in der Verarbeitung und müssen daher von einem Fachmann angebracht werden.\n\nDie Wahl der Tapete sollte immer auch von der Raumgröße und der Raumfunktion abhängig gemacht werden. Für kleine Räume eignen sich helle Tap"
+                        "title": "Willkommen bei Hometapete - Ihrem Online-Shop für Tapeten",
+                        "text": "Herzlich willkommen bei Hometapete, Ihrem Online-Shop für hochwertige Tapeten. Bei uns finden Sie eine große Auswahl an überstreichbaren Tapeten, dekorativen Tapeten, Bordüren, Zierprofilen und Deckenplatten sowie Wohnraumdämmungen. Unsere Tapetenmuster bieten Ihnen die Möglichkeit, Ihre Wände ganz nach Ihren Wünschen zu gestalten und so eine angenehme Atmosphäre in Ihrem Zuhause zu schaffen. Wir legen großen Wert auf Qualität und bieten Ihnen daher nur Tapeten von bekannten Markenherstellern an. Schauen Sie sich in Ruhe in unserem Online-Shop um und lassen Sie sich von unseren Produkten inspirieren."
+                    },
+                    {
+                        "title": "Überstreichbare Tapeten",
+                        "text": "Erfrischen Sie Ihre Wände mit unseren überstreichbaren Tapeten! Mit unserer großen Auswahl an Tapeten in verschiedenen Farben und Designs können Sie Ihren Raum im Handumdrehen neu gestalten. Unsere überstreichbaren Tapeten sind langlebig und einfach zu verarbeiten, so dass Sie Ihre Wände schnell und einfach neu gestalten können. Schauen Sie sich jetzt unsere Auswahl an überstreichbaren Tapeten an und finden Sie die perfekte Tapete für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Dekorative Tapeten",
+                        "text": "Machen Sie Ihre Wände zum Hingucker mit unseren dekorativen Tapeten! Unsere Tapeten sind in einer Vielzahl von Designs und Farben erhältlich, von Klassik bis hin zu modernen Mustern. Egal, ob Sie einen Raum neu gestalten oder nur eine Wand akzentuieren möchten, wir haben die perfekte Tapete für Sie. Schauen Sie sich jetzt unsere Auswahl an dekorativen Tapeten an und finden Sie die Tapete, die Ihren Raum zum Leben erweckt."
+                    },
+                    {
+                        "title": "Bordüren",
+                        "text": "Fügen Sie dem Finish Ihrer Tapete mit unseren <a href=\"/kategorie/bordueren/\" title=\"Bordüren\">Bordüren</a> den letzten Schliff hinzu. Unsere Bordüren sind in einer Vielzahl von Designs und Farben erhältlich, von Klassik bis hin zu modernen Mustern. Sie können sie verwenden, um Ihre Tapete zu akzentuieren oder um eine Wand zu trennen. Schauen Sie sich jetzt unsere Auswahl an Bordüren an und finden Sie die perfekte Ergänzung zu Ihrer Tapete."
+                    },
+                    {
+                        "title": "Zierprofile & Deckenplatten",
+                        "text": "Geben Sie Ihren Räumen das gewisse Extra mit Zierprofilen und Deckenplatten von Hometapete.de. Unsere Produkte zeichnen sich durch eine hohe Qualität und Langlebigkeit aus und bieten Ihnen eine große Auswahl an Designs und Farben. Verleihen Sie Ihren Räumen eine individuelle Note und schaffen Sie ein angenehmes Wohnklima. Entdecken Sie jetzt unser umfangreiches Sortiment an Zierprofilen und Deckenplatten."
+                    },
+                    {
+                        "title": "Wohnraumdämmung",
+                        "text": "Sorgen Sie für ein angenehmes Raumklima mit der <a href=\"/kategorie/wohnraumdaemmung/\" title=\"Wohnraumdämmung\">Wohnraumdämmung</a> von Hometapete.de. Unsere Produkte bieten Ihnen eine effiziente Dämmung und schützen Sie vor Lärm und Kälte. Entdecken Sie jetzt unser umfangreiches Sortiment an Wohnraumdämmung und finden Sie das perfekte Produkt für Ihre Bedürfnisse. Profitieren Sie von einer hohen Qualität und Langlebigkeit und schaffen Sie sich ein Wohnumfeld, das Sie jeden Tag aufs Neue genießen können."
+                    },
+                    {
+                        "title": "Tapetenmuster",
+                        "text": "Verleihen Sie Ihren Räumen das gewisse Etwas mit <a href=\"/kategorie/tapetenmuster/\" title=\"Tapetenmuster\">Tapetenmuster</a>n von Hometapete.de. Unsere Produkte bieten Ihnen eine große Auswahl an Designs und Farben und zeichnen sich durch eine hohe Qualität und Langlebigkeit aus. Entdecken Sie jetzt unser umfangreiches Sortiment an Tapetenmustern und finden Sie das perfekte Muster für Ihre Bedürfnisse. Profitieren Sie von einer individuellen Raumgestaltung und schaffen Sie sich ein Wohnumfeld, das Sie jeden Tag aufs Neue begeistert."
                     }
                 ]
             }
